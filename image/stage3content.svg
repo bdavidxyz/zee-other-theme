@@ -31,7 +31,7 @@
                 <use id="Rectangle-1" stroke="#D3D3D3" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
                 <g id="button" transform="translate(88.000000, 114.000000)">
                     <use id="Rectangle-2" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#118C4E" xlink:href="#path-3"></use>
-                    <text id="CTA" font-family="Chalkduster" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <text id="CTA" font-family="Bradley Hand" font-size="14" font-weight="normal" fill="#FFFFFF">
                         <tspan x="23" y="18">CTA</tspan>
                     </text>
                 </g>
@@ -42,7 +42,7 @@
                     <ellipse id="object" fill="#85C33D" cx="36.5" cy="23" rx="4.5" ry="5"></ellipse>
                     <rect id="search" fill="#FFFFFF" opacity="0.85" x="56" y="13" width="181" height="19"></rect>
                 </g>
-                <text id="MY-OWN-STUFF" font-family="Chalkduster" font-size="20" font-weight="normal" fill="#118C4E">
+                <text id="MY-OWN-STUFF" font-family="Bradley Hand" font-size="20" font-weight="normal" fill="#118C4E">
                     <tspan x="42" y="99">MY OWN STUFF</tspan>
                 </text>
                 <g id="team" transform="translate(33.000000, 186.000000)">
